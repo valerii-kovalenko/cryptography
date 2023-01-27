@@ -1,0 +1,13 @@
+{
+  "name": "cryptography",
+  "version": "1.0.0",
+  "author": "Valerii Kovalenko",
+  "scripts": {
+    "exec": "tsc index.ts && node index.js"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {}
+}

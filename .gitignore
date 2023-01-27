@@ -1,0 +1,9 @@
+# IDEs and editors
+/.idea
+# dependencies
+/node_modules
+
+# generated js
+/src/*/*.js
+
+
